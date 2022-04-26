@@ -1,0 +1,16 @@
+nav > a > p{
+    font-size: 1.0rem;
+   
+}
+nav > a   :hover{
+   font-size: 1.3rem;
+}
+.pl{
+    padding-left: 1rem;
+}
+.pr{
+    padding-right: 1rem;
+}
+.bg{
+    background-color: rgba(184, 184, 184, 0.61);
+}
